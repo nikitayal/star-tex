@@ -1,1 +1,0 @@
-star-tex.ruasd
