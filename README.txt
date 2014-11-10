@@ -1,1 +1,1 @@
-star-tex.ru
+star-tex.ruasd
